@@ -14,7 +14,7 @@ const About = () => {
                     </h2>
                     <div className='rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all'>
                         <p className='text-gray-300 mb-6'>
-                            Fresh graduate developer with a keen interest in building web and mobile applications.
+                            Student awaiting graduation (November 2025) with a keen interest in building web and mobile applications.
                         </p>
                         <div className='grid grid-cols-1 md:grid-cols-2 gap-6'>
                             <div className='rounded-xl p-6 hover:-translate-y-1 transition-all'>
