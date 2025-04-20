@@ -10,7 +10,7 @@ const Home = () => {
                         Hello there, I'm Hazim
                     </h1>
                     <p className='text-gray-400 text-lg mb-8 max-w-lg mx-auto'>
-                        I am a student studying computer science awaiting graduation who is eager to learn as well as develop web and mobile applications.
+                        I am a computer science student awaiting graduation who is eager to learn as well as develop web and mobile applications.
                     </p>
                     <div className='flex justify-center space-x-4'>
                         <a href='#projects' className='bg-white text-black py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.4)]'>
