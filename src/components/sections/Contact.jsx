@@ -19,7 +19,7 @@ const Contact = () => {
                                 ✖️ <a href='https://x.com/zim7506'>Zim7506</a>
                             </li>
                             <li>
-                                👾 <a href='https://github.com/sterlker'>sterlker</a>
+                                👾 <a href='https://github.com/sterlzim7506'>sterlzim7506</a>
                             </li>
                         </ul>
                     </div>
